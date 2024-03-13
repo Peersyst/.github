@@ -10,11 +10,11 @@ We collaborate with protocols, public and private organizations to deliver tailo
 
 🧊 [Peersyst/bloxer](https://github.com/Peersyst/bloxer): Lightweight and simple blockchain indexer framework based on custom events.
 
+🗡️ [Peersyst/swisstype](https://github.com/Peersyst/swisstype): Your faithful Swiss Knife of types.
+
 ⭐️ [Peersyst/astron](https://github.com/Peersyst/astron): A component library with a basic and shiny design system which is also highly customisable.
 
 🎩 [Peersyst/stilus](https://github.com/Peersyst/stilus): An elegant and performant style engine. Groom the styles of your preferred Javascript UI framework.
-
-🗡️ [Peersyst/swisstype](https://github.com/Peersyst/swisstype): Your faithful Swiss Knife of types.
 
 
 ## Community
